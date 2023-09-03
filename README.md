@@ -2,4 +2,5 @@
 
 ## hello tadano!
 
-- osushi
+- sushi
+- ramen
